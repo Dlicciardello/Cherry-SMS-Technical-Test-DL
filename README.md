@@ -1,4 +1,4 @@
-# cTechTest Rush Assignment Solution
+# cTechTest Assignment Solutions
 
 This repository contains the five required C solutions:
 
